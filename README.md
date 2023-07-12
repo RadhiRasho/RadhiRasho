@@ -1,28 +1,38 @@
 <h2 align="center">Hello, My Name is Radhi Rasho</h2>
 
-<p align="center">I do web and app development</p>
+<h4 align="center">I'm a Full Stack Engineer</p>
+<h4 align="center">Building Fun Things On The Internet</p>
 
-<div>
-<div align="left">
-<h2 align="center">Languages and Technologies</h2>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nodejs,tailwind,postgres,mysql" alt="TypeScript, Nextjs, React, Express, Node.js, Tailwind, Postgres, MySQL" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=mongodb,docker,linux,vscode" alt="MongoDB, Docker, Linux, VSCode" />
-  </a>
-</p>
+<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <div style="flex: 1;">
+      <h2 align="center">Languages & Technologies</h2>
+      <p align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nodejs,tailwind,postgres,mysql" alt="TypeScript, Nextjs, React, Express, Node.js, Tailwind, Postgres, MySQL" />
+          <br />
+          <img src="https://skillicons.dev/icons?i=mongodb,docker,linux,vscode" alt="MongoDB, Docker, Linux, VSCode" />
+        </a>
+      </p>
+    </div>
+    <div style="flex: 1;">
+      <h2 align="center">Learning...</h2>
+      <p align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=ts,nodejs,rust,cpp,python" alt="TypeScript, NodeJS, Rust, C++, Python" />
+        </a>
+      </p>
+    </div>
+  </div>
 </div>
-<div align="right">
-<h2 align="center">Learning...</h2>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,rust,cpp,python" alt="TypeScript, Rust, C++, Python" />
-  </a>
-</p>
+
+<div align="center">
+  <h2>Stats</h2>
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <div style="flex: 1;">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadhiRasho&theme=radical&count_private=true&hide_border=true" alt="Top Langs">
+      </p>
+    </div>
+  </div>
 </div>
-</div>
-<h2 align="center">Stats</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadhiRasho&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
-</p>
