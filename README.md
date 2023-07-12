@@ -11,6 +11,13 @@
   </a>
 </p>
 
+<h2 align="center">Learning...</h2>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ts,rust,cpp,python" alt="TypeScript, Rust, C++, Python" />
+  </a>
+</p>
+
 <h2 align="center">Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadhiRasho&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
