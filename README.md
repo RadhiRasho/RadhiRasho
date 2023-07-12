@@ -19,7 +19,7 @@
       <h2 align="center">Learning...</h2>
       <p align="center">
         <a href="#">
-          <img src="https://skillicons.dev/icons?i=ts,nodejs,rust,cs,cpp,python" alt="TypeScript, NodeJS, Rust, C#, C++, Python" />
+          <img src="https://skillicons.dev/icons?i=ts,rust,cpp,python" alt="TypeScript, Rust, C++, Python" />
         </a>
       </p>
     </div>
