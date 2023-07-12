@@ -11,7 +11,7 @@
         <a href="#">
           <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nodejs,cs,tailwind,postgres,mysql" alt="TypeScript, Nextjs, React, Express, Node.js, C#, Tailwind, Postgres, MySQL" />
           <br />
-          <img src="https://skillicons.dev/icons?i=mongodb,docker,linux,vscode" alt="MongoDB, Docker, Linux, VSCode" />
+          <img src="https://skillicons.dev/icons?i=mongodb,docker,linux,vscode,git,github" alt="MongoDB, Docker, Linux, VS Code, Git, Github" />
         </a>
       </p>
     </div>
