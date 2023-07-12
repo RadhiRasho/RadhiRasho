@@ -2,6 +2,8 @@
 
 <p align="center">I do web and app development</p>
 
+<div>
+<div align="left">
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <a href="#">
@@ -10,14 +12,16 @@
     <img src="https://skillicons.dev/icons?i=mongodb,docker,linux,vscode" alt="MongoDB, Docker, Linux, VSCode" />
   </a>
 </p>
-
+</div>
+<div align="right">
 <h2 align="center">Learning...</h2>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=ts,rust,cpp,python" alt="TypeScript, Rust, C++, Python" />
   </a>
 </p>
-
+</div>
+</div>
 <h2 align="center">Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadhiRasho&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
