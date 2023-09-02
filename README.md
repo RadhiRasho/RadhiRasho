@@ -25,14 +25,3 @@
     </div>
   </div>
 </div>
-
-<div align="center">
-  <h2>Stats</h2>
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="flex: 1;">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadhiRasho&theme=radical&count_private=true&hide_border=true" alt="Top Langs">
-      </p>
-    </div>
-  </div>
-</div>
