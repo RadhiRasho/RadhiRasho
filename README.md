@@ -9,7 +9,7 @@
       <h2 align="center">Languages & Technologies</h2>
       <p align="center">
         <a href="#">
-          <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nodejs,cs,tailwind,postgres,mysql" alt="TypeScript, Nextjs, React, Express, Node.js, C#, Tailwind, Postgres, MySQL" />
+          <img src="https://skillicons.dev/icons?i=ts,nextjs,react,express,nodejs,cs,tailwind,postgres,mysql" alt="TypeScript, Tailwind, Node.js, Nextjs, React, Express, Python, C#,  Postgres, MySQL" />
           <br />
           <img src="https://skillicons.dev/icons?i=mongodb,docker,linux,vscode,git,github" alt="MongoDB, Docker, Linux, VS Code, Git, Github" />
         </a>
@@ -19,7 +19,7 @@
       <h2 align="center">Learning...</h2>
       <p align="center">
         <a href="#">
-          <img src="https://skillicons.dev/icons?i=ts,rust,cpp,python" alt="TypeScript, Rust, C++, Python" />
+          <img src="https://skillicons.dev/icons?i=ts,rust,cpp,python" alt="TypeScript, Rust, C++" />
         </a>
       </p>
     </div>
