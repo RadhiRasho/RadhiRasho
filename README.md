@@ -19,7 +19,7 @@
       <h2 align="center">Learning...</h2>
       <p align="center">
         <a href="#">
-          <img src="https://skillicons.dev/icons?i=rust,cpp" alt="Rust, C++" />
+          <img src="https://skillicons.dev/icons?i=rust,cpp,go,svelte" alt="Rust, C++, Go, Svelte" />
         </a>
       </p>
     </div>
