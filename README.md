@@ -2,6 +2,7 @@
 
 <h4 align="center">I'm a Full Stack Developer, I love to learn new things and I'm always looking for new challenges.</h4>
 
+<div align="center">
 <div style="display: flex; justify-content: center; gap: 20px">
     <a href="https://www.linkedin.com/in/radhi-rasho-7827b218a">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -11,6 +12,7 @@
         <img src="https://img.shields.io/badge/radhi%20Rasho-black?style=for-the-badge&logo=x&logoColor=white&color=black"
             alt="X.com" />
     </a>
+</div>
 </div>
 
 <div align="center">
