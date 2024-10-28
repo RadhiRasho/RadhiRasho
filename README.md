@@ -33,8 +33,8 @@
         <div>
             <h2 align="center">Back End</h2>
             <p align="center">
-                <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,elysia,express,python,go,cs"
-                    alt="TypeScript, JavaScript, Node.js, Bunjs, ElysiaJS, Express, Python, Go, C#" />
+                <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,deno,elysia,express,python,go,cs"
+                    alt="TypeScript, JavaScript, Node.js, Bunjs, Deno, ElysiaJS, Express, Python, Go, C#" />
             </p>
         </div>
         <div>
