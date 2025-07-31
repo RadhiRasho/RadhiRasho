@@ -25,27 +25,27 @@
         <div>
             <h2 align="center">Front End</h2>
             <p align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,sass,nextjs,react,tailwind,svelte,astro&theme=dark"
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,sass,nextjs,react,tailwind,svelte,astro&theme=dark&perline=6"
                     alt="TypeScript, JavaScript, HTML5, CSS3, SASS, Nextjs, React, Tailwind, Svelte, Astro" />
             </p>
         </div>
         <div>
             <h2 align="center">Back End</h2>
             <p align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,nodejs,bun,deno,elysia,hono,express,python,go,cs&theme=dark"
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,nodejs,bun,deno,elysia,hono,express,python,go,cs&theme=dark&perline=6"
                     alt="TypeScript, JavaScript, Node.js, Bunjs, Deno, ElysiaJS, Express, Python, Go, C#" />
             </p>
         </div>
         <div>
             <h2 align="center">Databases</h2>
             <p align="center">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,redis,sqlite&theme=dark"
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,redis,sqlite&theme=dark&perline=6"
                     alt="MongoDB, MySQL, PostgreSQL, Redis, SQLite" />
             </p>
         </div>
         <div>
             <h2 align="center">Technologies</h2>
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,linux,windows,apple,visualstudio,vscode,git,github&theme=dark"
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,linux,windows,apple,visualstudio,vscode,git,github&theme=dark&perline=6"
                 alt="Docker, Linux, Windows, MacOS, Visual Studio, VS Code, Git, Github" />
         </div>
     </div>
